@@ -145,3 +145,13 @@ pm2 startup systemd -u ubuntu
 - Server 端口：`14500`
 - 微信发消息给 bot 测试回复
 - 日志：`pm2 logs hanako`
+
+### Obsidian Vault 手机端查看
+
+Vault 目录：`/home/ubuntu/vault`（git 仓库，93 个文件，91MB）
+
+手机查看地址：`http://150.158.3.58:8080`（docsify，需要在腾讯云安全组开放 8080 端口）
+
+Hanako 的 `config.yaml` 已配 `home_folder: /home/ubuntu/vault`，微信里说写笔记会自动存到 vault 目录。
+
+同步到电脑：在微信里说「同步笔记」，Hanako 执行 git push。电脑开机后 pull 即可。

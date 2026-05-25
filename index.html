@@ -10,6 +10,17 @@
   <div id=app></div>
   <script src=//cdn.jsdelivr.net/npm/docsify@4></script>
   <script>
+    // 自定义插件：把 Obsidian [[wikilinks]] 转成标准 markdown 链接
+    function wikilinkPlugin(hook, vm) {
+      hook.beforeEach(function(content) {
+        // [[链接|显示文字]] → [显示文字](链接.md)
+        // [[链接]] → [链接](链接.md)
+        return content
+          .replace(/\[\[([^\]|]+)\|([^\]|]+)\]\]/g, '[$2]($1.md)')
+          .replace(/\[\[([^\]|]+)\]\]/g, '[$1]($1.md)');
+      });
+    }
+
     window.$docsify = {
       name: 'Hanako 笔记',
       repo: '',
@@ -17,6 +28,7 @@
       subMaxLevel: 3,
       search: 'auto',
       autoHeader: true,
+      plugins: [wikilinkPlugin],
     }
   </script>
   <script src=//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js></script>

@@ -411,3 +411,235 @@
 ---
 
 > 使用建议：不建议通篇背。每次练习翻译真题前，先看对应话题的词组 5 分钟，练完后把译错的地方对照本节找出对应词组，标记复习。重点是"练→错→查→再练"的循环，不是背诵量。
+
+---
+
+## 十一、官话套话专项（CET6 高频政治经济类表达）
+
+> 说明：CET6 翻译近年大量使用政府工作报告/白皮书风格的句式，中文原文讲究对仗、排比、四字格和比喻修辞。
+> 核心原则：中文的华丽修辞 → 英文的准确简洁。不要逐字硬译，要抓核心动作/状态。
+
+### 11.1 发展/进步类
+
+| 中文 | English |
+|------|---------|
+| 稳步推进 | make steady progress in / steadily advance |
+| 大力发展 | vigorously develop / strive to develop |
+| 持续健康发展 | sustain healthy development |
+| 又快又好发展 | faster and better development |
+| 高质量发展 | high-quality development |
+| 稳中求进 / 稳中向好 | make progress while maintaining stability / stable with a positive trajectory |
+| 行稳致远 | achieve steady and sustained progress |
+| 迈出坚实步伐 | make solid strides / take solid steps forward |
+| 进入发展“快车道” | enter a fast track of development / step into the fast lane of development |
+| 驶入快车道 | enter the fast lane |
+| 开启新征程 | embark on a new journey |
+| 踏上新征程 | set out on a new journey |
+| 谱写新篇章 | write a new chapter / open up new horizons |
+| 再上新台阶 | reach a new level / rise to a new height |
+| 取得新突破 | achieve new breakthroughs / make new strides |
+| 实现跨越式发展 | achieve leapfrog development |
+| 注入新动力 | inject new impetus / new drive into |
+| 提供有力支撑 | provide strong support for |
+| 奠定坚实基础 | lay a solid foundation for |
+| 释放发展潜力 | unleash (the) development potential |
+| 形成良性循环 | form a virtuous cycle |
+| 势头良好 / 持续向好 | maintain good momentum / sustain positive momentum |
+| 内生动力不断增强 | the endogenous driving forces continue to grow |
+| 增长潜力巨大 | enormous growth potential |
+| 发展前景广阔 | broad development prospects |
+| 多点支撑 / 多轮驱动 | multiple pillars of support / multi-engine driven |
+
+### 11.2 成就/引人注目类
+
+| 中文 | English |
+|------|---------|
+| 在历史上写下辉煌一页 | write a glorious page in the annals of history |
+| 浓墨重彩的一笔 | a significant chapter / a brilliant chapter in |
+| 举世瞩目 | attract worldwide attention / capture global attention |
+| 令人瞩目的成就 | remarkable achievements / impressive accomplishments |
+| 历史性跨越 | a historic leap / a historic stride |
+| 历史性突破 | a historic breakthrough |
+| 日新月异 | change with each passing day |
+| 与日俱增 | increase / grow with each passing day |
+| 日益深化 / 日益普及 | deepen / become increasingly popular |
+| 方兴未艾 | be in the ascendant / be on the rise / be flourishing |
+| 蓬勃发展 | flourish / thrive / experience robust growth |
+| 蒸蒸日上 | prosper day by day / go from strength to strength |
+| 硕果累累 | fruitful results / a rich harvest of achievements |
+| 交出一份满意答卷 | deliver a satisfactory answer sheet (to the people) / deliver satisfactory results |
+| 走在……前列 | be at the forefront of ... |
+| 由……变为/转变为…… | transform / evolve / shift from ... to ... |
+| 实现从……到……的伟大飞跃 | achieve a great leap from ... to ... |
+
+### 11.3 政策/建设/改革类
+
+| 中文 | English |
+|------|---------|
+| 全面深化改革 | deepen reform comprehensively / deepen all-round reform |
+| 进一步扩大开放 | further expand opening-up |
+| 对外开放水平 | the level of opening-up / the degree of openness |
+| 开放程度更高 | a higher level of openness / be more open to the outside world |
+| 互利共赢 | mutual benefit and win-win cooperation |
+| 共建共治共享 | joint contribution, collaborative governance, and shared benefits |
+| 统筹推进 | coordinate efforts to advance / take a coordinated approach to |
+| 大力推进 | vigorously promote / redouble efforts to |
+| 多措并举 | adopt a multi-pronged approach / take multiple measures |
+| 配套政策 / 配套措施 | supporting policies / supporting measures |
+| 长效机制 | a long-term mechanism |
+| 政策倾斜 | preferential policies / policy support in favor of |
+| 放管服改革 | streamline administration, delegate power, and improve regulation and services |
+| 营商环境 | business environment / business climate |
+| 释放改革红利 | release the dividends of reform |
+| 激发市场活力 | invigorate the market / stimulate market vitality |
+| 降低准入门槛 | lower the threshold for market access |
+| 营改增 | replace business tax with VAT |
+| 减税降费 | cut taxes and fees |
+| 精准施策 / 因地制宜 | adopt targeted measures / tailor measures to local conditions |
+| 供给侧结构性改革 | supply-side structural reform |
+| 产业转型升级 | industrial transformation and upgrading |
+| 新质生产力 | new quality productive forces |
+
+### 11.4 民生/福祉类
+
+| 中文 | English |
+|------|---------|
+| 以人为本 | people-centered / people-oriented |
+| 民生福祉 | the well-being of the people / people's welfare |
+| 获得感、幸福感、安全感 | a sense of gain, happiness, and security |
+| 安居乐业 | live in peace and enjoy a good life / live and work in contentment |
+| 不断满足人民日益增长的美好生活需要 | constantly meet the people's ever-growing needs for a better life |
+| 共享发展成果 | share the fruits of development |
+| 兜底保障 / 兜底民生 | ensure basic needs are met / a safety net for people's livelihood |
+| 促进公平正义 | promote fairness and justice |
+| 服务均等化 | equal access to services / equalization of public services |
+| 就业优先政策 | employment-first policy / pro-employment policy |
+| 老有所养、幼有所育 | care for the elderly and children / ensure the elderly are provided for and children are nurtured |
+| 应保尽保 | ensure that all eligible people are covered by social security |
+| 打通“最后一公里” | remove the last barrier / solve the "last-mile" problem |
+
+### 11.5 科技/创新/产业类
+
+| 中文 | English |
+|------|---------|
+| 创新驱动发展战略 | innovation-driven development strategy |
+| 科技强国 | a world leader in science and technology / a country strong in science and technology |
+| 科技自立自强 | achieve self-reliance and strength in science and technology |
+| 关键核心技术 | key and core technologies |
+| 卡脖子技术 | bottleneck technologies / technologies that constrain development |
+| 产学研深度融合 | deep integration of industry, academia, and research |
+| 科技成果转化 | the commercialization / transformation of scientific and technological achievements |
+| 数字经济 / 数字产业化 | digital economy / digital industrialization |
+| 产业数字化 | digital transformation of industries |
+| 数字化、智能化、绿色化 | digital, smart, and green transformation |
+| 战略性新兴产业 | strategic emerging industries |
+| 未来产业 / 先导产业 | future industries / pioneering industries |
+| 培育新增长点 | cultivate new growth drivers |
+| 新旧动能转换 | transition from old to new growth drivers / shift in driving forces |
+| 中国制造 2025 | Made in China 2025 |
+| 先进制造业 | advanced manufacturing |
+| 智能制造 | smart manufacturing |
+| 高端装备制造业 | high-end equipment manufacturing |
+
+### 11.6 国际/外交/开放类
+
+| 中文 | English |
+|------|---------|
+| 构建人类命运共同体 | build a community with a shared future for mankind |
+| 负责任大国 | a responsible major country |
+| 新型国际关系 | a new type of international relations |
+| 大国担当 / 大国风范 | the sense of responsibility / the demeanor of a major country |
+| 全球化 / 逆全球化 | globalization / de-globalization |
+| 贸易保护主义 / 单边主义 | trade protectionism / unilateralism |
+| 全球治理体系改革 | reform of the global governance system |
+| 共商共建共享 | extensive consultation, joint contribution, and shared benefits |
+| 一带一路 | the Belt and Road Initiative (BRI) |
+| 基础设施互联互通 | infrastructure connectivity / connectivity of infrastructure |
+| 产能合作 | production capacity cooperation |
+| 南南合作 / 南北对话 | South-South cooperation / North-South dialogue |
+| 国内国际双循环 | dual circulation (domestic and international) |
+| 更高水平开放型经济新体制 | a new system for a higher-level open economy |
+| 规则、规制、管理、标准等制度型开放 | institutional opening-up covering rules, regulations, management, and standards |
+| 共建一带一路 | joint pursuit of the Belt and Road |
+| 走出去 / 引进来 | go global / bring in |
+
+### 11.7 通用四字格（最难翻的高频结构）
+
+| 中文 | English |
+|------|---------|
+| 大势所趋 | an inevitable trend / the trend of the times |
+| 人心所向 | reflect the shared aspiration of the people / the will of the people |
+| 与时俱进 | keep pace with the times / advance with the times |
+| 因地制宜 | adapt to local conditions / take measures suited to local conditions |
+| 多管齐下 | take a multi-pronged / multifaceted approach |
+| 标本兼治 | address both symptoms and root causes / treat both the symptoms and the underlying causes |
+| 扬长避短 | foster strengths and circumvent weaknesses |
+| 互惠互利 | mutual benefit / mutually beneficial |
+| 公开透明 | open and transparent |
+| 公平公正 | fair and just / fairness and justice |
+| 任重道远 | the task remains arduous / there is still a long way to go |
+| 意义重大 / 影响深远 | of great significance / of far-reaching importance / have a far-reaching impact |
+| 开局良好 / 起步平稳 | get off to a good start / a steady start |
+| 来之不易 | hard-won / not come easily |
+| 百年未有之大变局 | profound changes unseen in a century / major changes unprecedented in a century |
+| 居安思危 | be prepared for danger in times of peace / remain vigilant in times of peace |
+| 未雨绸缪 | take preventive measures / plan ahead for possible risks |
+| 稳扎稳打 | go steady and make solid progress |
+| 久久为功 | make persistent efforts / accumulate sustained efforts over time |
+| 善作善成 | do a good job and achieve solid results |
+| 破立并举 | promote both abolition and establishment / abolish the old and establish the new |
+| 以人为本、全面协调可持续 | people-centered, comprehensive, balanced, and sustainable |
+
+### 11.8 连接转承类
+
+| 中文 | English |
+|------|---------|
+| 当前 / 目前 | at present / currently |
+| 近年来 | in recent years |
+| 在……的背景下 | against the backdrop / context of ... |
+| 在……的推动下 | driven by ... / propelled by ... |
+| 随着……的深入推进 | with the further advancement of ... |
+| 站在新的历史起点上 | at a new historical starting point / from a new historical starting point |
+| 在新形势下 | under the new circumstances |
+| 进入新阶段 | enter a new stage / usher in a new phase |
+| 迈上新台阶 | reach a new level / rise to a new level |
+| 呈现出……的特点 | take on the characteristics of ... / feature ... |
+| 呈现出良好态势 | show a good momentum / be in good shape |
+| 既……又…… | both ... and ... / as well as |
+| 一方面……另一方面…… | on the one hand ... on the other hand ... |
+| 归根结底 / 从根本上 | essentially / fundamentally / at its core |
+| 值得一提的是 | it is worth mentioning that ... / notably ... |
+
+### 11.9 翻译官话的核心原则
+
+**原则一：中文动词→英文名词/介词**
+中文喜欢动词排比（推进、促进、加强、推动），英文常转成名词或介词：
+- 大力推进改革开放 → make great efforts to advance reform and opening-up / advance reform and opening-up with vigor
+- 加强……的建设 → strengthen the building of ... / enhance ...
+
+**原则二：四字格不要硬译**
+中文四字格是对称美，英文没有这种结构。拆成完整句子：
+- 多措并举、标本兼治 → A multi-pronged approach was adopted to address both the symptoms and root causes.
+- 行稳致远 → Steady progress will ensure sustained success. / We must proceed steadily to achieve long-term success.
+
+**原则三：积累主动和被动两套表达**
+中文多用主动（我们推进……、国家大力发展……），英文常用被动（... has been advanced / efforts have been made to...）：
+  - 我们大力推进了改革开放 → Great efforts have been made to advance reform and opening-up.
+  - 政府出台了一系列政策 → A series of policies have been introduced by the government.
+
+**原则四：比喻要降级处理**
+中文喜欢比喻修辞（快车道、答卷、最后一公里、新篇章），英文保留核心语义，去掉画面感：
+  - 进入发展快车道 → enter a stage of rapid development（不必译成 fast lane）
+  - 交出一份满意答卷 → deliver satisfactory results（不必译成 exam paper）
+  - 浓墨重彩的一笔 → a significant contribution / a brilliant chapter（不必译成 thick ink）
+  - 打通"最后一公里" → remove the last barrier / solve the last-mile problem（不必硬译成 break through the last kilometer）
+
+**原则五：排比句要合并简化**
+中文排比（列三点、列四点）是演讲修辞，英文要合并成更紧凑的结构：
+- 要坚定不移推进……，不断完善……，持续优化…… → We will steadfastly advance ..., improve ..., and optimize ...
+- 坚持……原则，遵循……规律，…… → We will follow the principle of ... and adhere to the law of ...
+
+---
+
+> **使用建议**：Section 11 不要一次性背。每天挑1-2个类别（比如今天背"发展类"+"成就类"），用真题里面的翻译段落来验证——找一篇往年翻译题，先试译，然后对照答案看"官话部分"是怎么处理的。重点记那些"你感觉中文很华丽、但英文翻出来很简单"的固定对应，这才是官话翻译的核心。
+

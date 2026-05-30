@@ -643,3 +643,167 @@
 
 > **使用建议**：Section 11 不要一次性背。每天挑1-2个类别（比如今天背"发展类"+"成就类"），用真题里面的翻译段落来验证——找一篇往年翻译题，先试译，然后对照答案看"官话部分"是怎么处理的。重点记那些"你感觉中文很华丽、但英文翻出来很简单"的固定对应，这才是官话翻译的核心。
 
+---
+
+## 十二、逻辑连词与介词专项
+
+> 说明：CET6 翻译中，**连词和介词是句子的骨架**。中文靠意合（读者自己推断逻辑关系），英文靠形合（必须用连词/介词显式标出逻辑）。
+> 你刚才提到的"还"就是一个典型——中文一个"还"字在不同位置可能对应英文的 still / also / yet / even / in addition 等完全不同方向的词。
+
+### 12.1 "还"的七种译法（最高频歧义词）
+
+| 中文语境 | 含义方向 | 英文译法 | 例句 |
+|---------|---------|---------|------|
+| 还在做某事 | 持续、仍然 | **still** | 中国还在大力推进改革开放 → China **is still** vigorously advancing reform and opening-up |
+| 还有、此外还有 | 追加、补充 | **also / in addition / as well** | 还有多项配套措施 → There are **also** several supporting measures / **In addition**, there are... |
+| 还不止如此 | 递进 | **even / moreover** | 更重要的还在后面 → What is **even** more important lies ahead |
+| 还算不错 / 还可以 | 勉强认可 | **fairly / relatively / not bad** | 这个结果还可以接受 → The result is **fairly** acceptable |
+| 还没完成 | 否定持续 | **not yet / still not** | 改革还没有完成 → The reform has **not yet** been completed |
+| 还有就是 | 列举 | **and / as well as** | 还有农业、教育等领域 → **as well as** agriculture and education |
+| 还是……吧 | 选择 / 建议 | **had better / or** | 还是稳健一点比较好 → We **had better** be more cautious |
+
+**核心记忆点**：见到"还"先判断方向——持续?追加?递进?否定?——再选对应的英文词，不要条件反射译成 also。
+
+### 12.2 其他高频单字连词
+
+| 中文 | 多种译法 | 例句 |
+|------|---------|------|
+| **也** | **also / as well / too / likewise / neither**（否定句） | 经济也好，文化也好 → **Both** the economy **and** culture... / 他也不赞同 → He **neither** agrees... |
+| **就** | **then / accordingly / even / exactly / as soon as** | 一提出就通过 → It was approved **as soon as** it was proposed / 这就是问题所在 → This **exactly** is the problem |
+| **才** | **only then / just / as late as** | 到2022年才突破→ It didn't break through **until** 2022 / 这才开始 → **Only then** did it begin |
+| **都** | **all / both / every / even / already** | 全国各地都受益 → **All** regions benefited / 连我都不知道 → **Even** I didn't know |
+| **更** | **even more / furthermore / moreover / still more** | 更重要的是 → **Even more** importantly / **Moreover** |
+| **再** | **again / further / then / more** | 再上新台阶 → reach **a** **further** new high / 再三强调 → emphasize **again and again** |
+| **又** | **again / moreover / and / both...and...** / **neither...nor** | 又快又好发展 → **both** faster **and** better development / 又一次 → **once again** |
+| **只** | **only / merely / just** | 这只是开始 → This is **only** the beginning |
+| **却** | **but / yet / however / while**（对比） | 需求很大，供给却不足 → Demand is huge, **yet** supply lags behind |
+| **并** | **and / moreover / (used before neg.) actually** | 并不容易 → It is **actually** not easy / 并提出了建议 → **and** put forward suggestions |
+| **则** | **while / whereas / then / as for** | 东部则相反 → The east, **while** the opposite is true / 否则 → **otherwise** |
+| **均** | **all / both / without exception** | 各项工作均已完成 → All tasks **have been** completed |
+| **皆** | **all / both / every** | 全国皆知 → known **throughout** the country |
+| **已** | **already / yet**（否定） | 已取得显著成效 → **Already** achieved notable results / 尚未完成 → not **yet** completed |
+| **尚** | **still / yet / even** | 尚在完善中 → **still** being improved / 尚属首次 → **still** the first of its kind |
+
+### 12.3 转折/让步类连词
+
+| 中文 | English | 使用注意 |
+|------|---------|---------|
+| 虽然……但是…… | **Although / Though / While** ...（一定不能 + but） | 英文 although 和 but 不能同时出现！二选一 |
+| 尽管……还是…… | **Despite / In spite of** + noun / **Even though** + sentence | Despite 后面跟名词/动名词 |
+| 然而 / 但是 | **However / Nevertheless / Nonetheless / Yet** | However 后加逗号；Yet 直接接句子 |
+| 相反 / 反之 | **On the contrary / In contrast / Conversely** | On the contrary 用于否定前句后的转折 |
+| 另一方面 | **On the other hand** | 常与 On the one hand 配对 |
+| 无论如何 | **In any case / Regardless / No matter what** | 后接名词或完整句子 |
+| 即使 / 即便 | **Even if / Even though** | Even if = 假设条件（即使...也）；Even though = 事实让步（尽管） |
+| 固然 | **Admittedly / To be sure / It is true that...** | 承认某个事实后再转折 |
+| 无非 / 不过是 | **Nothing but / Merely / No more than** | 否定性轻描淡写 |
+| 反倒 / 反而 | **Instead / On the contrary / Rather** | 表意外转折 |
+
+### 12.4 因果/目的类连词
+
+| 中文 | English | 使用注意 |
+|------|---------|---------|
+| 因为……所以…… | **Because / Since / As**... （不用 so） | 同 although/but，because 和 so 不能同时出现 |
+| 由于 | **Due to / Owing to / Thanks to / Given** | Due to + 名词；Thanks to 表积极原因 |
+| 因此 / 因而 / 从而 | **Therefore / Thus / Hence / Consequently / As a result** | Thus/hence 较正式，+ 名词或句子均可 |
+| 以至于 / 以致 | **So...that / To the extent that / Resulting in** | so 后接形容词/副词 |
+| 为的是 / 以便 | **In order to / So as to / So that** | So that 后接从句（含情态动词） |
+| 以免 / 以防 | **Lest / For fear that / To avoid / In case** | Lest 较正式，后接 (should) + 动词原形 |
+| 基于 / 鉴于 | **Based on / In light of / Given that** | Given that + 完整句子 |
+| 导致 / 造成 | **Lead to / Result in / Give rise to / Bring about** | Lead to + 名词（不是动词原形） |
+| 归功于 / 归因于 | **Be attributed to / Owe...to / Be credited to** | Attribute to 中性/负面；Credit to 正面 |
+| 反过来也促进了 | **Which in turn promoted / Which in turn boosted** | "in turn" 是关键连接词，表连锁因果 |
+| 进而 / 并进一步 | **And further / Which further / Thereby** | 中文"进而"常译成 and further + 动词或 thereby + 动名词 |
+
+### 12.5 递进/并列类连词
+
+| 中文 | English | 使用注意 |
+|------|---------|---------|
+| 不仅……而且…… | **Not only... but also...** | Not only 开头时主谓倒装：Not only does it... |
+| 既……又…… | **Both...and... / As well as** | 动词一致：既促进了经济又改善了民生 → both boosted the economy **and** improved people's well-being |
+| 不但……还…… | **Not only... but also... / Furthermore** | 跟 not only...but also 用法相同 |
+| 不但不……反而…… | **Far from... / Instead of... / Rather than...** | Far from improving, it actually... |
+| 不仅如此 | **Moreover / Furthermore / What's more / In addition** | 口语化：What's more；正式：Furthermore |
+| 此外 / 另外 / 除此之外 | **In addition / Additionally / Besides / Apart from / Furthermore** | Besides 可当介词（Besides + noun）或副词 |
+| 以及 / 和 | **As well as / And / Together with** | As well as 不改变主谓数的主语 |
+| 乃至 / 甚至 | **Even / Or even / Including** | 中国乃至世界 → China **and even** the world |
+| 特别是 / 尤其是 | **Especially / Particularly / In particular** | 可放句首、句末、名词前 |
+| 换言之 / 也就是说 | **In other words / That is to say / Namely / i.e.** | i.e. 后面要加逗号再接完整解释 |
+| 例如 / 比如 | **For example / For instance / Such as / Like** | Such as 后接名词/动名词；For example 可接完整句子 |
+| 尤其是 / 其中 | **Especially / Notably / Particularly / Among them / Of which** | "其中"很大概率不用译，英文用 of which / among them 重新组织 |
+
+### 12.6 条件/假设类连词
+
+| 中文 | English | 使用注意 |
+|------|---------|---------|
+| 如果 / 假如 | **If / In case / Provided that / Assuming that** | Provided that 较正式，表条件限制 |
+| 只有……才…… | **Only...can... / Only when... / Only if...** | Only 放句首时主谓倒装：Only when...can we... |
+| 只要……就…… | **As long as / So long as / Provided that** | 最常用：as long as |
+| 除非……否则…… | **Unless... / ...otherwise...** | Unless = if not，已经含否定 |
+| 无论……都…… | **Regardless of / No matter what/where/who / Whether...or...** | No matter + 疑问词 = 让步状语从句 |
+| 不管……还是…… | **Whether...or... / Be it...or...** | Be it A or B 是正式书面倒装结构 |
+| 假设 / 假定 | **Assuming that / Suppose (that)** | Suppose 也可用于祈使：Suppose...then... |
+| 一旦 | **Once / As soon as / The moment** | Once 是最简洁的译法 |
+| 但凡 / 凡是 | **Any / Whoever / Whenever / Wherever / All those who** | "凡是"英译常转成 whoever/wherever/whenever |
+
+### 12.7 时间/顺序类连词
+
+| 中文 | English | 使用注意 |
+|------|---------|---------|
+| 当……时 | **When / While / As** | While 表持续过程；When 表时间点；As 表伴随 |
+| 随着…… | **As / With / Along with** | As + 句子；With + 名词短语 |
+| 此前 / 在此之前 | **Previously / Prior to this / Before that** | Prior to = before 的正式版本 |
+| 此后 / 此后不久 | **Afterwards / Subsequently / Shortly after** | Subsequently 很正式，多见于政府文本英译 |
+| 同时 | **At the same time / Meanwhile / In the meantime / Simultaneously** | Meanwhile 可放句首独立成句 |
+| 从此 / 此后 | **Since then / From then on / Ever since** | Ever since 强调从那时持续到现在 |
+| 最初 / 起初 | **Initially / At first / Originally** | At first 含"后来变了"的意味 |
+| 最终 / 终究 | **Ultimately / Eventually / In the end** | Ultimately = 归根结底；Eventually = 最终结果 |
+| 近年来 / 不久之后 | **In recent years / In the near future / Shortly** | 时态锚点——近年来常配现在完成时 |
+| 与此同时 / 反过来 | **At the same time / Meanwhile / Conversely / In turn** | Conversely 用于对比方向；In turn 用于连锁反应 |
+
+### 12.8 高频介词及介词短语
+
+| 中文 | English | 使用注意 |
+|------|---------|---------|
+| 在……方面 | **In terms of / In the aspect of / In the field of** | 不要把"在……方面"全部翻成 in the aspect of（太中式）| 灵活处理为 in / for / regarding |
+| 在……基础上 | **On the basis of / Based on / Building on** | 在现有基础上 → on the existing basis |
+| 在……的推动下 | **Driven by / Propelled by / Fueled by** | Fueled by 带正面能量感 |
+| 在……的背景下 | **Against the backdrop of / Against the background of / In the context of** | Against the backdrop 最常用 |
+| 在……过程中 | **In the process of / During / In the course of** | In the course of = 正式版 during |
+| 在……范围内 | **Within the scope of / Within the framework of / Within** | 在政策范围内 → within the policy framework |
+| 按照…… / 根据…… | **According to / In accordance with / In line with / Based on** | In accordance with = 法律/法规层面的"按照" |
+| 通过……方式 | **By means of / Through / Via** | By + 动名词是最简洁的"通过" |
+| 对于…… / 关于…… | **Regarding / Concerning / With regard to / In respect of** | Regarding = 最简洁；With regard to = 较正式 |
+| 除了……之外 | **Apart from / Besides / In addition to / Except for / With the exception of** | Besides = 包含在内；Except = 排除在外 |
+| 从……到…… | **From...to... / Ranging from...to...** | Ranging from 更正式，用于列举范围 |
+| 与……相比 | **Compared with / In comparison with / Relative to** | Compared with + 名词；Compared to = 比喻 |
+| 由……组成 | **Consist of / Be composed of / Be made up of / Comprise** | Consist of 不用被动；Comprise 可主动 |
+| 对……而言 | **For / In terms of / As far as...is concerned** | As far as...is concerned 较啰嗦，建议用 For/To |
+| 把……作为 | **Treat...as / Regard...as / Consider...as / Take...as** | 注意介词搭配：regard as（无 to） |
+| 把……转化为 | **Transform...into / Convert...into / Translate...into** | Transform 常带质变意味 |
+| 以……为目标 | **Aim to / Target / With the goal of** | Aim to + 动词原形；With the goal of + 动名词 |
+| 以……为例 | **Take...for example / Take...as an example** | 也可用 such as 直接举例 |
+| 到……为止 | **By / As of / Up to / Until** | By = 截止到某个时间点（完成时）；Until = 一直持续到 |
+| 在……之间 | **Between / Among / Amid** | Between ~ 两者之间；Among ~ 三者及以上；Amid = 在…之中（较文雅） |
+| 在……之上/之下/之中 | **Above / Below / Amid / Within** | 注意抽象用法：在……背景下 = amid the context of |
+
+### 12.9 逻辑链条模板（实战套用）
+
+以下公式覆盖了CET6翻译段落中80%的逻辑结构：
+
+**模板一：因果递进链**
+> 随着A的推进（As A advances），B得到了显著提升（B has been significantly improved）。这不仅促进了C（This has not only boosted C），而且为D奠定了基础（but also laid the foundation for D）。
+
+**模板二：转折对比链**
+> 虽然A取得了巨大成就（Despite the remarkable achievements in A），但在B方面仍有不足（there are still deficiencies in B）。因此，C显得尤为重要（Therefore, C is particularly important）。
+
+**模板三：并列列举链**
+> A、B、C是D的重要组成部分（A, B, and C are important components of D）。其中，A在E方面表现突出（Among them, A stands out in terms of E），而B则在F方面发挥着关键作用（while B plays a key role in F）。
+
+**模板四：条件假设链**
+> 只有通过A（Only through A），才能实现B（can B be achieved）。除非C得到改善（Unless C is improved），否则D将难以持续（D will be difficult to sustain）。
+
+---
+
+> **使用建议**：Section 12 的核心价值不在背单条，在**建立"中文一个词 → 英文一套逻辑关系"的思维**。看到一个"还"字、"就"字、"才"字，先停下来想：这句话内部的逻辑到底是什么，再选对应的英文连词/介词。练几套真题翻译后，回头翻本节查自己翻错的地方，效果比通篇朗读好。
+

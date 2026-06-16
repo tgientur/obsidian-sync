@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "75ed39e4914b7f5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9da5e08413db2a5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84cdff684f870afe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "索引.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "索引"
+            }
+          },
+          {
+            "id": "5c5e06768f01a7cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/05-分析方法/政策解读与宏观分析框架.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "政策解读与宏观分析框架"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a92202755049b98",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0f39b33a281e028",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79e5a58c566c8db4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a187ead07bc4d318",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7f0172e435541d58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bcfad46d3f66e039",
+    "type": "split",
+    "children": [
+      {
+        "id": "1286d65ffd2ea9bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17ce2f5487e9d707",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "毛.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "毛 的反向链接列表"
+            }
+          },
+          {
+            "id": "f12264ee9193812b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "东方财富.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "东方财富 的出链列表"
+            }
+          },
+          {
+            "id": "741b4c7e8d902f4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b2801257d364c662",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b6d0c0631cd340d1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "图谱.canvas",
+                "viewState": {
+                  "x": 11.91530751085519,
+                  "y": -164.75394745457763,
+                  "zoom": -0.6666666666666667
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "图谱"
+            }
+          },
+          {
+            "id": "368c1e858d58822a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "东方财富.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "东方财富 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "5c5e06768f01a7cd",
+  "lastOpenFiles": [
+    "wiki/08-金融科技论文文献/Berger_et_al_Bank_ownership_and_efficiency_in_China.md",
+    "wiki/08-金融科技论文文献/胡国晖朱露露_金融科技对银行TFP的影响及机制.md",
+    "wiki/08-金融科技论文文献/郭品沈悦_互联网金融对银行风险承担的影响.md",
+    "wiki/08-金融科技论文文献/郭峰等_测度中国数字普惠金融发展.md",
+    "计量经济学期末速成笔记.md",
+    "投资/量价关系四态.md",
+    "投资/东方财富复盘.md",
+    "阅读笔记/中国社会各阶级的关系图谱.md",
+    "知识库/索引.md",
+    "知识库/README.md",
+    "wiki/06-行业研究/BK1031-光伏设备板块全景.md",
+    "wiki/06-行业研究/BK1283-银行板块全景.md",
+    "README.md",
+    "未命名 1.md",
+    "未命名.md",
+    "_sidebar.md",
+    "wiki/07-英语学习/CET6-翻译考点与必备词组.md",
+    "求职/暑期实习投递清单.md",
+    "求职/今日盘点_20260606.md",
+    "求职/杭州实习岗位分析_20260606.md",
+    "求职/海投关键词与批量投递指南.md",
+    "求职/潮玩卡牌赛道快速入门_横店资本面试用.md",
+    "索引.md",
+    "hanako每日记录/2026-05-22.md",
+    "服务器/TrendRadar/部署与迁移.md",
+    "服务器/云服务器代理方法.md",
+    "wiki/04-毛泽东选集",
+    "wiki/03-三国演义",
+    "wiki/02-汪曾祺",
+    "wiki/01-金融",
+    "raw/毛泽东选集一至七卷 (毛泽东) (Z-Library).pdf",
+    "raw/三国演义 (1).txt",
+    "raw/受戒：汪曾祺小说精选.pdf",
+    "raw/跨区域发展战略对商业银行市场绩效影响的实证研究_孙启伟.pdf",
+    "raw/利率市场化背景下我国商业银行的经营效率研究_邹靖.pdf",
+    "raw/城市商业银行经营效率及影响因素研究_朱晓姝.pdf",
+    "投资/attachments/Pasted image 20260409155810.png",
+    "投资/attachments/Pasted image 20260327155226.png",
+    "投资/attachments/Pasted image 20260327155105.png",
+    "投资/attachments/Pasted image 20260327154052.png",
+    "未命名.canvas",
+    "东财/Pasted image 20260409155810.png",
+    "图谱.canvas",
+    "东财/Pasted image 20260327154052.png",
+    "东财/Pasted image 20260327155226.png",
+    "东财/Pasted image 20260327155105.png",
+    "Pasted image 20260327153533.png",
+    "Pasted image 20260327153528.png"
+  ]
+}

@@ -1,4 +1,2 @@
-raw/
-node_modules/
-.DS_Store
-*.pdf
+# Temp merge files
+*_服务器版.md

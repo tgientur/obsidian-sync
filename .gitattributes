@@ -1,0 +1,19 @@
+# Auto detect text files and normalize line endings
+* text=auto
+
+# Explicitly declare Markdown files
+*.md text
+
+# Obsidian config files
+*.json text
+*.css text
+*.js text
+
+# Binary files
+*.png binary
+*.jpg binary
+*.gif binary
+*.webp binary
+
+# Ignore temp/server files
+*_服务器版.md

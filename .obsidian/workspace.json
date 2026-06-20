@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9da5e08413db2a5f",
+        "id": "34d4009afab7258f",
         "type": "tabs",
         "children": [
           {
-            "id": "84cdff684f870afe",
+            "id": "c16bcf7899e85860",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "索引.md",
+                "file": "A股产业研究库/07 数据中心/新材料产业链数据跟踪.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "索引"
-            }
-          },
-          {
-            "id": "5c5e06768f01a7cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/05-分析方法/政策解读与宏观分析框架.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "政策解读与宏观分析框架"
+              "title": "新材料产业链数据跟踪"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,16 +173,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "东方财富.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "东方财富 的大纲"
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "e42cf22d77f4520c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -216,37 +211,41 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5c5e06768f01a7cd",
+  "active": "79e5a58c566c8db4",
   "lastOpenFiles": [
-    "hanako每日记录/2026-06-16.md",
-    "根索引_服务器版.md",
-    "wiki/索引_服务器版.md",
-    "wiki/08-金融科技论文文献/Berger_et_al_Bank_ownership_and_efficiency_in_China.md",
-    "wiki/08-金融科技论文文献/胡国晖朱露露_金融科技对银行TFP的影响及机制.md",
-    "wiki/08-金融科技论文文献/郭品沈悦_互联网金融对银行风险承担的影响.md",
-    "wiki/08-金融科技论文文献/郭峰等_测度中国数字普惠金融发展.md",
-    "计量经济学期末速成笔记.md",
-    "投资/量价关系四态.md",
-    "投资/东方财富复盘.md",
-    "阅读笔记/中国社会各阶级的关系图谱.md",
-    "知识库/索引.md",
-    "知识库/README.md",
-    "wiki/06-行业研究/BK1031-光伏设备板块全景.md",
-    "wiki/06-行业研究/BK1283-银行板块全景.md",
-    "README.md",
-    "未命名 1.md",
-    "未命名.md",
-    "_sidebar.md",
-    "wiki/07-英语学习/CET6-翻译考点与必备词组.md",
-    "求职/暑期实习投递清单.md",
-    "求职/今日盘点_20260606.md",
-    "求职/杭州实习岗位分析_20260606.md",
-    "求职/海投关键词与批量投递指南.md",
-    "求职/潮玩卡牌赛道快速入门_横店资本面试用.md",
-    "索引.md",
+    "A股产业研究库/07 数据中心/周度追踪/2026-W25-首期/README.md",
+    "A股产业研究库/07 数据中心/周度追踪/2026-W25-首期",
+    "A股产业研究库/07 数据中心/周度追踪/2026-W25-首期.md",
+    "A股产业研究库/07 数据中心/周度追踪/README.md",
+    "A股产业研究库/07 数据中心/周度追踪/报告模板.md",
+    "A股产业研究库/07 数据中心/周度追踪",
+    "A股产业研究库/07 数据中心/数据要素产业链数据跟踪.md",
+    "A股产业研究库/07 数据中心/机器人产业链数据跟踪.md",
+    "A股产业研究库/07 数据中心/半导体产业链数据跟踪.md",
+    "A股产业研究库/04 主题投资/政策专题.md",
+    "A股产业研究库/04 主题投资/国产算力.md",
+    "A股产业研究库/04 主题投资/固态电池.md",
+    "A股产业研究库/03 产业链图谱/卫星互联网.md",
+    "A股产业研究库/03 产业链图谱/工业母机.md",
+    "A股产业研究库/03 产业链图谱/碳中和.md",
+    "A股产业研究库/03 产业链图谱/AI产业链/光模块.md",
+    "A股产业研究库/03 产业链图谱/AI产业链/机器视觉.md",
+    "A股产业研究库/03 产业链图谱/新能源产业链/LFP磷酸铁锂.md",
+    "A股产业研究库/03 产业链图谱/新能源产业链/固态电池.md",
+    "A股产业研究库/03 产业链图谱/消费电子产业链/TWS耳机.md",
+    "A股产业研究库/03 产业链图谱/军工产业链/总纲.md",
+    "A股产业研究库/03 产业链图谱/数据要素产业链/总纲.md",
+    "A股产业研究库/03 产业链图谱/数据要素产业链/数据资产入表.md",
+    "A股产业研究库/03 产业链图谱/数据要素产业链/数据要素产业链.md",
+    "A股产业研究库/03 产业链图谱/军工产业链/军工电子.md",
+    "A股产业研究库/03 产业链图谱/军工产业链/船舶装备.md",
+    "A股产业研究库/03 产业链图谱/军工产业链/航天装备.md",
+    "A股产业研究库/03 产业链图谱/高端制造产业链/工业母机.md",
+    "obsidian-sync",
     "wiki/04-毛泽东选集",
     "wiki/03-三国演义",
     "wiki/02-汪曾祺",
@@ -254,9 +253,6 @@
     "raw/毛泽东选集一至七卷 (毛泽东) (Z-Library).pdf",
     "raw/三国演义 (1).txt",
     "raw/受戒：汪曾祺小说精选.pdf",
-    "raw/跨区域发展战略对商业银行市场绩效影响的实证研究_孙启伟.pdf",
-    "raw/利率市场化背景下我国商业银行的经营效率研究_邹靖.pdf",
-    "raw/城市商业银行经营效率及影响因素研究_朱晓姝.pdf",
     "投资/attachments/Pasted image 20260409155810.png",
     "投资/attachments/Pasted image 20260327155226.png",
     "投资/attachments/Pasted image 20260327155105.png",

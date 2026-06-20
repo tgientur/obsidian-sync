@@ -4,6 +4,8 @@
   "templater-obsidian",
   "execute-code",
   "mermaid-tools",
+  "obsidian-git",
+  "better-mermaid",
   "mehrmaid",
-  "obsidian-git"
+  "obsidian-excalidraw-plugin"
 ]

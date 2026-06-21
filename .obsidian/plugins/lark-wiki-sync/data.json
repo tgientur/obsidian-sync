@@ -1,0 +1,17 @@
+{
+  "configured": false,
+  "larkCliPath": "",
+  "larkIdentity": "user",
+  "spaces": [],
+  "localRoot": "📥 Lark",
+  "direction": "bidirectional",
+  "ignorePatterns": [
+    ".obsidian/**",
+    "**/.DS_Store",
+    "**/node_modules/**"
+  ],
+  "autoSyncIntervalMinutes": 0,
+  "conflictPolicy": "ask",
+  "confirmBeforeSync": true,
+  "lastSyncedAt": null
+}

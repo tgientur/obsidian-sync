@@ -56,6 +56,10 @@ tags: [时间线/AI, v2]
 | 2025 | DeepSeek-R1/V3震惊全球市场（开源高性价比大模型） | 中国AI能力的全球震惊事件 | DeepSeek, 2025 |
 | 2025 | AI Agent成为行业焦点，MCP协议标准化 | AI从对话到行动的关键一年 | 多家, 2025 |
 
+## 关联页面
+
+[[A股产业研究库/03 产业链图谱/AI产业链/总纲|产业链总纲]]
+
 ## 参考资料
 
 [1] Turing, A. M. Computing Machinery and Intelligence[J]. Mind, 1950, 59(236): 433-460.
